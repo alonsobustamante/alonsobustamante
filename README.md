@@ -57,3 +57,13 @@ const alonso = {
 <br/>
 <br/>
 <br/>
+
+----
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/alonso-bustamante-albanil/"><img src="https://img.shields.io/badge/-Alonso%20Bustamante%20Alba%C3%B1il-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:carlosaj.bustamante@gmail.com"><img src="https://img.shields.io/badge/-carlosaj.bustamante@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/alonso.bustamante.8"><img src="https://img.shields.io/badge/-@alonso.bustamante.8-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/alonso.bustamante2/"><img src="https://img.shields.io/badge/-@alonso.bustamante2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a></p>
