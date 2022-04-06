@@ -18,7 +18,7 @@
 ```javascript
 const alonso = {
     pronouns: "He" | "His",
-    code: ["Javascript", "PHP, "Java, ".Net"],
+    code: ["Javascript", "PHP, "Java", ".Net"],
     askMeAbout: ["web dev", "tech", "app dev", "backend"],
     technologies: {
         frontEnd: {
